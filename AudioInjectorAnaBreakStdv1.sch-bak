@@ -4,9 +4,9 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "Audio Injector Standard analogue breakout v1.0"
+Title "Audio Injector Analogue Breakout Standard"
 Date "2020-01-01"
-Rev ""
+Rev "1.0"
 Comp "Flatmax Pty Ltd"
 Comment1 ""
 Comment2 ""

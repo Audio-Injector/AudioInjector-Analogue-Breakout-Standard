@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:AudioInjectorAnaBreakStdv1-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -8,7 +9,7 @@ Title "Audio Injector Analogue Breakout Standard"
 Date "2020-01-01"
 Rev "1.0"
 Comp "Flatmax Pty Ltd"
-Comment1 ""
+Comment1 "Flatmax Pty Ltd Free Hardware License"
 Comment2 ""
 Comment3 ""
 Comment4 ""
