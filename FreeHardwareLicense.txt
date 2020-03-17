@@ -1,0 +1,61 @@
+Free hardware license
+
+1 Definitions
+
+In this Licence, the following terms have the following meanings:
+ 
+“Documentation” means schematic diagrams, designs, circuit or circuit
+board layouts, mechanical drawings, flow charts and descriptive text,
+and other explanatory material that is explicitly stated as being made
+available under the conditions of this Licence. The Documentation may
+be in any medium, including but not limited to computer files and
+representations on paper, film, or any other media.
+
+“Product” means either an entire, or any part of a, device built using
+the Documentation or the modified Documentation.
+
+2 Applicability
+
+2.1 The Licensee may copy, modify, communicate to the public and distribute
+verbatim copies of the Documentation, in any medium.
+
+2.2 The Licensee may communicate to the public and distribute the
+modified Documentation (thereby in addition to being a Licensee also
+becoming a Licensor), always provided that he shall:
+
+a) license the modified Documentation under the terms and conditions
+of this Licence or, where applicable, a later version of this Licence
+as may be issued by Flatmax Pty Ltd.
+
+3 Warranty and liability
+
+3.1 DISCLAIMER – The Documentation any modified Documentation and
+any product  are provided "as is" and any express or implied warranties,
+including, but not limited to, implied warranties of merchantability, of 
+satisfactory quality, non-infringement of third party rights, and fitness for a
+particular purpose or use are disclaimed in respect of the
+Documentation, the modified Documentation or any Product. The Licensor
+makes no representation that the Documentation, modified
+Documentation, or any Product, does or will not infringe any patent,
+copyright, trade secret or other proprietary right. The entire risk as
+to the use, quality, and performance of a Product shall be with the
+Licensee and not the Licensor. This disclaimer of warranty is an
+essential part of this Licence and a condition for the grant of any
+rights granted under this Licence. The Licensee warrants that it does
+not act in a consumer capacity.
+
+3.2 LIMITATION OF LIABILITY – The Licensor shall have no liability
+for direct, indirect, special, incidental, consequential, exemplary,
+punitive or other damages of any character including, without
+limitation, procurement of substitute goods or services, loss of use,
+data or profits, or business interruption, however caused and on any
+theory of contract, warranty, tort (including negligence), product
+liability or otherwise, arising in any way in relation to the
+Documentation, modified Documentation and/or the use, manufacture or
+distribution of a Product, even if advised of the possibility of such
+damages, and the Licensee shall hold the Licensor(s) free and harmless
+from any liability, costs, damages, fees and expenses, including
+claims by third parties, in relation to such use.
+
+
+
