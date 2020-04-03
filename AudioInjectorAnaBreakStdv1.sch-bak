@@ -14,6 +14,17 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+$Comp
+L Connector_Generic:Conn_02x03_Odd_Even Embedded_1
+U 1 1 5E5D5773
+P 5450 3600
+F 0 "Embedded_1" H 5530 3642 50  0000 L CNN
+F 1 "Embedded" H 5530 3551 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical" H 5450 3600 50  0001 C CNN
+F 3 "~" H 5450 3600 50  0001 C CNN
+	1    5450 3600
+	1    0    0    -1  
+$EndComp
 Text GLabel 5250 3500 0    50   Input ~ 0
 Pi_V5
 Text GLabel 5750 3500 2    50   Input ~ 0
@@ -99,15 +110,4 @@ Text Notes 4100 4050 0    50   ~ 0
 Power
 Text Notes 5150 4050 0    50   ~ 0
 Embedded's Control
-$Comp
-L Connector_Generic:Conn_02x03_Odd_Even Embedded_1
-U 1 1 5E5D5773
-P 5450 3600
-F 0 "Embedded_1" H 5530 3642 50  0000 L CNN
-F 1 "Embedded" H 5530 3551 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical" H 5450 3600 50  0001 C CNN
-F 3 "~" H 5450 3600 50  0001 C CNN
-	1    5450 3600
-	1    0    0    -1  
-$EndComp
 $EndSCHEMATC
