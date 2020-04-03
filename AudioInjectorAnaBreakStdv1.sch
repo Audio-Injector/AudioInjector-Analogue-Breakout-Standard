@@ -25,13 +25,13 @@ GPIO15
 $Comp
 L Connector_Generic:Conn_01x04 Power_1
 U 1 1 5B61ACD3
-P 4050 3550
-F 0 "Power_1" H 4050 3750 50  0000 C CNN
-F 1 "Power" V 4150 3550 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 4050 3550 50  0001 C CNN
-F 3 "" H 4050 3550 50  0000 C CNN
-	1    4050 3550
-	-1   0    0    -1  
+P 4050 3650
+F 0 "Power_1" H 4050 3850 50  0000 C CNN
+F 1 "Power" V 4150 3650 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 4050 3650 50  0001 C CNN
+F 3 "" H 4050 3650 50  0000 C CNN
+	1    4050 3650
+	-1   0    0    1   
 $EndComp
 Text GLabel 2200 3850 0    60   Input ~ 0
 GND
@@ -108,6 +108,6 @@ F 1 "Embedded" H 5530 3551 50  0000 L CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical" H 5450 3600 50  0001 C CNN
 F 3 "~" H 5450 3600 50  0001 C CNN
 	1    5450 3600
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $EndSCHEMATC
